@@ -9,6 +9,6 @@ To obtained latitude and longitude in spesific area
 To obtained nearby venues in spesific latitude / longitude
 
 # Result
-| No |      Area     |       Date       |                                                                   Description                                                                   |
-|:--:|:-------------:|:----------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------:|
-| 1  | South Jakarta | November 1, 2020 | Acquired best candidates districts for strategic location problem based on nearby venues that give positive or negative impact in South Jakarta |
+| No | Area | Date | Description | Report |
+|:-:|:-:|:-:|:-:|-|
+| 1 | South Jakarta | November 1, 2020 | Acquired best candidates districts for strategic location problem based on nearby venues that give positive or negative impact in South Jakarta | [south_jakarta - Report.pdf](https://github.com/bryanpurba/strategic_location_recommendation_for_opening_coffee_shop/blob/main/south_jakarta%20-%20Report.pdf) |
